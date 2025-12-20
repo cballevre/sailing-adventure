@@ -1,11 +1,11 @@
 ---
-title: Voyage
+title: Guide de voyage
 ---
-Ce site est un complément aux guides nautiques qui se complète au grès des aventures du voilier [[Sterenn]].
+Ce site est un complément aux guides nautiques qui se complète au grès des aventures du voilier [[Sterenn]] et ses amis. Étant basé au port de [[saint-brieuc|Saint-Brieuc]] pour le moment, on explore surtout la partie ouest de la Manche. Cette documentation s'inspire du travail de [Hundred Rabbits](https://100r.co/site/travel.html) sur leur propre voyage.
 
-## Côte anglaise 
+## Côte française
 
-- [[sud-du-devon|Le Sud du Devon]]
+- [[france/bretagne-nord/index|Bretagne Nord]]
 
 ## Îles Anglo-Normandes
 
@@ -13,6 +13,8 @@ Ce site est un complément aux guides nautiques qui se complète au grès des av
 - [[sercq|Sercq]]
 - [[jersey|Jersey]]
 
-## Côte française
+## Côte anglaise 
 
-- [[bretagne-nord|Bretagne Nord]]
+- [[sud-du-devon|Le Sud du Devon]]
+
+
